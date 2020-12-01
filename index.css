@@ -1,0 +1,190 @@
+.navbar{
+  	text-align: center;
+	text-decoration: none;
+  	font-family: Arial, Helvetica, sans-serif;
+	font-size:20px;	
+}
+
+
+
+.navbar-brand{
+	background-color: #611;
+}
+
+.nav-item:hover:not(.navbar-brand){
+	background-color: #611;
+}
+
+.row{
+	margin-top:56px;
+	height: 150vh;
+
+	
+}
+
+.left, .right{
+
+	
+	text-align:center;
+	background-color: grey;
+	
+}
+
+.middle{
+
+	background-color: #282828;
+	color:white;
+}
+
+.left-heading{
+	
+	margin-top:120px;
+	margin-left:10px;
+	border:2px solid #611;
+	color:red;
+	background-color: #343a40; 
+	border-radius: 10px;
+	
+}
+
+.profiles{
+
+	margin-top:30px;
+
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius:50%;
+}
+
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-github{
+	color: black;	
+	background: #00aff0;
+}
+
+.fa-quora{
+	color: white;	
+	background: #611;
+	font-size:10px;
+}
+
+.Link{
+
+	font-size:20px;
+}
+
+.image_box a{
+	color:#611;
+}
+
+.image_box a:hover{
+
+	text-decoration:None;
+	color:#611;
+	
+}
+
+.image_box{
+
+	border:2px solid #611;
+	margin-left:10px;
+	box-shadow:1px 1px 3px 2px #611; 
+}
+
+.profile_pic{
+
+		margin-top:30px;
+		color:orange;
+}
+
+.profile_pic img{
+	
+	margin-top:0px;
+	margin-left:10px;
+	border-radius:50px;
+	width:220px;
+	height:220px;
+	float:left;
+	margin-right:30px;
+	
+	box-shadow:1px 1px 3px 3px #611;
+	
+	
+}
+
+.title{
+
+	color:orange;
+	margin-left:10px;
+	border:2px solid orange;
+	text-align :center
+}
+
+.aboutbiranchi{
+
+	margin-top:10px;
+}
+
+.Project{
+		
+	margin-top:50px;
+}
+
+.Contact{
+	
+	margin-top:50px;
+}
+
+.right-heading{
+
+	margin-top:80px;
+	margin-left:10px;
+	border:2px solid #611;	
+	color:red;
+	background-color: #343a40; 
+	border-radius: 10px;
+
+}
+
+.technical{
+	margin-top:70px;
+}
+
+.Tech-names{
+
+	font-size:30px;
+	color:#611;
+}
+
+.interests, .Technical-Skills, .Certifications{
+
+	color:#611;
+	font-size:20px;
+}
+
+.footer{
+        padding: 10px 10px 0px 10px; 
+        height: 50px; 
+        background: #343a40; 
+        text-align:center;
+	color:white;
+	font-size:20px;
+	bottom: 0; 
+}
